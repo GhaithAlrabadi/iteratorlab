@@ -1,4 +1,4 @@
-package com.sourceallies.test.functor;
+package com.test.functor;
 
 import java.util.List;
 

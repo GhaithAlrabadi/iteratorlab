@@ -1,6 +1,6 @@
-package com.sourceallies.test.functor;
+package com.test.functor;
 
-import com.sourceallies.test.model.Book;
+import com.test.model.Book;
 /**
  * class that print one book element at a time
  * @author ghaith

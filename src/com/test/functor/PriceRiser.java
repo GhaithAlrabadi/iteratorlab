@@ -1,6 +1,6 @@
-package com.sourceallies.test.functor;
+package com.test.functor;
 
-import com.sourceallies.test.model.Book;
+import com.test.model.Book;
 
 /**
  * Functor implementation that oparate on a Book class by increasing it with

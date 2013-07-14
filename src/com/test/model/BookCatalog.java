@@ -1,16 +1,16 @@
-package com.sourceallies.test.model;
+package com.test.model;
 
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-import com.sourceallies.test.functor.Functor;
-import com.sourceallies.test.iterator.PriceFilterAndPrint;
-import com.sourceallies.test.iterator.PriceIncreaseAndFilter;
-import com.sourceallies.test.iterator.PriceOrderIterator;
-import com.sourceallies.test.iterator.ReversIterator;
-import com.sourceallies.test.predicate.Predicate;
+import com.test.functor.Functor;
+import com.test.iterator.PriceFilterAndPrint;
+import com.test.iterator.PriceIncreaseAndFilter;
+import com.test.iterator.PriceOrderIterator;
+import com.test.iterator.ReversIterator;
+import com.test.predicate.Predicate;
 
 /**
  * factory for different flavors of Iterator and Iterable

@@ -1,4 +1,4 @@
-package com.sourceallies.test.functor;
+package com.test.functor;
 
 /**
  * general interface that will be implemented later to apply one operation on a

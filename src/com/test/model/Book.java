@@ -1,4 +1,4 @@
-package com.sourceallies.test.model;
+package com.test.model;
 
 public class Book {
 	private String title;

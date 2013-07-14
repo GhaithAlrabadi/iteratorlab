@@ -1,4 +1,4 @@
-package com.sourceallies.test.predicate;
+package com.test.predicate;
 
 /**
  * general interface that used to check for a condition on the Object of class T

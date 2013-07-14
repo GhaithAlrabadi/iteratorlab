@@ -1,16 +1,16 @@
-package com.sourceallies.test;
+package com.test;
 
 import java.util.Iterator;
 import java.util.List;
 
-import com.sourceallies.test.functor.BookPrinter;
-import com.sourceallies.test.functor.BooksPrinter;
-import com.sourceallies.test.functor.Functor;
-import com.sourceallies.test.functor.PriceRiser;
-import com.sourceallies.test.model.Book;
-import com.sourceallies.test.model.BookCatalog;
-import com.sourceallies.test.predicate.PriceLessThanOrEq;
-import com.sourceallies.test.predicate.PriceMoreThan;
+import com.test.functor.BookPrinter;
+import com.test.functor.BooksPrinter;
+import com.test.functor.Functor;
+import com.test.functor.PriceRiser;
+import com.test.model.Book;
+import com.test.model.BookCatalog;
+import com.test.predicate.PriceLessThanOrEq;
+import com.test.predicate.PriceMoreThan;
 
 public class StartApplication {
 	public static void main(String args[]) {

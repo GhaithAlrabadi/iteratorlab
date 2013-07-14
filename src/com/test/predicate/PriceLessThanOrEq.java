@@ -1,6 +1,6 @@
-package com.sourceallies.test.predicate;
+package com.test.predicate;
 
-import com.sourceallies.test.model.Book;
+import com.test.model.Book;
 
 /**
  * Check if book price is less than or equal a passed amount
